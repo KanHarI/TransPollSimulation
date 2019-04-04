@@ -1,0 +1,6 @@
+[submodule "TransparentPollData"]
+	path = TransparentPollData
+	url = git@github.com:KanHarI/TransparentPollData.git
+[submodule "ElectionsSimulation"]
+	path = ElectionsSimulation
+	url = git@github.com:KanHarI/ElectionsSimulation.git
